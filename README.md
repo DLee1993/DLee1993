@@ -42,7 +42,7 @@
   Hosting:                Vercel
 
 
-<span style="color:#aab4c0">─ <span style="color:orange">Selection of Technical Skills</span> ─────────────────────────────────────</span>
+<span style="color:#aab4c0"><span style="color:orange">Selection of Technical Skills</span> ─────────────────────────────────────</span>
 
   Languages:              JavaScript, TypeScript, SQL, Powershell
   Databases:              MongoDB, Supabase
@@ -53,7 +53,7 @@
   Design:                 Figma
 
 
-<span style="color:#aab4c0">─ <span style="color:orange">Current Projects </span> ────────────────────────────────────</span>
+<span style="color:#aab4c0"><span style="color:orange">Current Projects </span> ────────────────────────────────────</span>
 
   Project_01:             Omni.cn
   Status:                 Under Development
@@ -64,7 +64,7 @@
   Description:            Open-access information platform.
 
 
-<span style="color:#aab4c0">─ <span style="color:orange">Learning Paths</span> ──────────────────────────────────</span>
+<span style="color:#aab4c0"><span style="color:orange">Learning Paths</span> ──────────────────────────────────</span>
 
   Current:       Scalable Architecture, Modular Architecture, Accessibility (a11y), WCAG, ARIA, Keyboard Navigation,
                  Internationalisation (i18n), Offline-First Development, Design Patterns
@@ -76,7 +76,7 @@
                  i18next, next-intl, ICU MessageFormat
 
 
-<span style="color:#aab4c0">─ <span style="color:orange">Interests</span> ──────────────────────────────────</span>
+<span style="color:#aab4c0"><span style="color:orange">Interests</span> ──────────────────────────────────</span>
 
   Software:               Intentional simplicity: software that focuses on doing what it needs to do, doing it well, 
                           and not getting in the user's way.
